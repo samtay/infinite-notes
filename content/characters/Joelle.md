@@ -28,18 +28,18 @@ Joelle Van Dyne
     * committed suicide that day (Thanksgiving, YTMP) by sticking her arms down
       the garbage disposal
 * veiled (UHID member)
-* worked w/ [Himself](/characters/Himself)
+* worked w/ [Himself](/infinite-notes/characters/Himself)
   * his favorite actress?
   * she unveiled for him (but didn't sleep with him)
 * roommate is (was) Molly Notkin
-* previous lover to [Orin](/characters/Orin)
+* previous lover to [Orin](/infinite-notes/characters/Orin)
   * for 26 months
-* [Orin](/characters/Orin) knew *re* Joelle and [Himself](/characters/Himself),
-  though [Avril](/characters/Avril) arguably did not
-* cheerleader at B.U. (when she met [Orin](/characters/Orin))
+* [Orin](/infinite-notes/characters/Orin) knew *re* Joelle and [Himself](/infinite-notes/characters/Himself),
+  though [Avril](/infinite-notes/characters/Avril) arguably did not
+* cheerleader at B.U. (when she met [Orin](/infinite-notes/characters/Orin))
 * while at B.U. becomes obsessed with film
-  * [Orin](/characters/Orin) introduces her to [Himself's](/characters/Himself)
+  * [Orin](/infinite-notes/characters/Orin) introduces her to [Himself's](/infinite-notes/characters/Himself)
     *Pre-Nuptial Agreement Between Heaven and Hell*
-* dreamed that [Gately](/characters/Don_Gately) was her dentist (pp. 724)
+* dreamed that [Gately](/infinite-notes/characters/Don_Gately) was her dentist (pp. 724)
 
 **WHAT DID JOELLE SEE??** (pp. 958)

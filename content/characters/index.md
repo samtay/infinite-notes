@@ -3,31 +3,31 @@ title: Characters
 ---
 
 * The Incandenza Family
-  * [Himself](/characters/Himself)
-  * [Avril](/characters/Avril)
-  * [Orin](/characters/Orin)
-  * [Hal](/characters/Hal)
-  * [Mario](/characters/Mario)
+  * [Himself](/infinite-notes/characters/Himself)
+  * [Avril](/infinite-notes/characters/Avril)
+  * [Orin](/infinite-notes/characters/Orin)
+  * [Hal](/infinite-notes/characters/Hal)
+  * [Mario](/infinite-notes/characters/Mario)
 * Les Assassins en Fauteuils Roulants (Quebecois Separatists)
-  * [Guillaume DuPlessis](/characters/DuPlessis)
+  * [Guillaume DuPlessis](/infinite-notes/characters/DuPlessis)
   * Luria P.--
-  * [Antitoi Bros.](/characters/Antitoi_Brothers)
-  * [Marathe](/characters/Marathe)
+  * [Antitoi Bros.](/infinite-notes/characters/Antitoi_Brothers)
+  * [Marathe](/infinite-notes/characters/Marathe)
 * the Brighton projects
   * Reginald
   * Wardine
   * Roy Tony
-  * [Poor Tony Krause](/characters/Poor_Tony)
+  * [Poor Tony Krause](/infinite-notes/characters/Poor_Tony)
 * E.T.A.
   * students
     * Abram, Shoshana
-    * [Arslanian, Idris](/characters/Idris_Arslanian)
-    * [Axford, Trevor ('Axhandle')](/characters/Axford)
+    * [Arslanian, Idris](/infinite-notes/characters/Idris_Arslanian)
+    * [Axford, Trevor ('Axhandle')](/infinite-notes/characters/Axford)
     * Bash, Jennie
     * Blott, Kent
     * Boone, Bridget
     * Chu, LaMont
-    * [Coyle, Kyle D.](/characters/Coyle)
+    * [Coyle, Kyle D.](/infinite-notes/characters/Coyle)
     * Criess, Jolene
     * Csikszentmihalyi, Zoltan
     * Doucette, Anton ('The Booger')
@@ -47,7 +47,7 @@ title: Characters
     * Makulic, Barnard
     * McKenna, Kiernan
     * Pearson, Heath
-    * [Pemulis, Michael](/characters/Pemulis)
+    * [Pemulis, Michael](/infinite-notes/characters/Pemulis)
     * Penn, J.J.
     * Peterson, Timmy ('Sleepy T.P.')
     * Possalthwaite, Todd
@@ -55,57 +55,57 @@ title: Characters
     * Rader, ___
     * Redondo, Guglielmo
     * Reynes, Esteban
-    * [Schacht, Ted](/characters/Schacht)
+    * [Schacht, Ted](/infinite-notes/characters/Schacht)
     * Shaw, ('Tall') Paul
     * Siress, Erica
     * Spodek, Carol
-    * [Stice, Ortho ('The Darkness')](/characters/Ortho)
+    * [Stice, Ortho ('The Darkness')](/infinite-notes/characters/Ortho)
     * Stott, Donni (*student??*)
-    * [Struck, Jim](/characters/Struck)
+    * [Struck, Jim](/infinite-notes/characters/Struck)
       * occasional Sox cap, braces (pp. 638)
     * Tallat-Kelpsa, Andern
     * Traub, Philip
-    * [Troeltsch, Jim](/characters/Jim_Troeltsch)
+    * [Troeltsch, Jim](/infinite-notes/characters/Jim_Troeltsch)
     * Unwin, Frannie
     * Whale, Carl
     * Zweig, Felicity
   * faculty/staff
-    * [Charles Tavis](/characters/CT) (head master)
+    * [Charles Tavis](/infinite-notes/characters/CT) (head master)
     * Gerhardt Schtitt (head coach)
     * Aubrey deLint (asst. coach)
     * Tex Watson (prorector)
-    * [Corbett Thorpe](/characters/Corbett_Thorpe) (prorector)
+    * [Corbett Thorpe](/infinite-notes/characters/Corbett_Thorpe) (prorector)
     * Mlle. Thierry Poutrincourt (prorector)
-    * [Mary Esther Thode](/characters/Mary_Esther_Thode) (prorector)
+    * [Mary Esther Thode](/infinite-notes/characters/Mary_Esther_Thode) (prorector)
     * Neil Hartigan (prorector)
     * Tony Nwangi (prorector)
     * Rik Dunkel (prorector)
-    * ["Lateral" Alice Moore](/characters/Alice_Moore)
-    * [Dolores Rusk](/characters/Dolores_Rusk)
+    * ["Lateral" Alice Moore](/infinite-notes/characters/Alice_Moore)
+    * [Dolores Rusk](/infinite-notes/characters/Dolores_Rusk)
     * F.D.V. Harde (facilities/grounds crew manager)
     * Barry Loach (Head Trainer; origin story pp. 967-971)
   * misc.
-    * [Lyle](/characters/Lyle)
+    * [Lyle](/infinite-notes/characters/Lyle)
     * Kenkle &amp; Brandt (graveyard shift janitors)
 * Ennet House Drug and Alcohol Recovery House (*sic*)
   * residents
     * Belbin, Jennifer
     * Cortelyu, April
-    * [Day, Geoffrey](/characters/Geoffrey_Day)
+    * [Day, Geoffrey](/infinite-notes/characters/Geoffrey_Day)
     * Diehl, Gavin
-    * [Erdedy, Ken](/characters/Erdedy)
-    * [Ewell, Eldred ('Tiny')](/characters/Tiny_Ewell)
+    * [Erdedy, Ken](/infinite-notes/characters/Erdedy)
+    * [Ewell, Eldred ('Tiny')](/infinite-notes/characters/Tiny_Ewell)
     * Foss, Chandler
       * possibly having an in-House relationship with April?
     * Glynn, Doony (the worker's comp guy)
-    * [Gompert, Kate](/characters/Kate_Gompert)
-    * [Green, Bruce](/characters/Bruce_Green)
-    * [Gunther, Nell](/characters/Nell_Gunther)
+    * [Gompert, Kate](/infinite-notes/characters/Kate_Gompert)
+    * [Green, Bruce](/infinite-notes/characters/Bruce_Green)
+    * [Gunther, Nell](/infinite-notes/characters/Nell_Gunther)
     * Hanley, Morris (current resident? or alum?)
     * Henderson, Clenette
     * J., Amy
     * K., Dave (an ATHSCME exec)
-    * [Lenz, Randy](/characters/Randy_Lenz)
+    * [Lenz, Randy](/infinite-notes/characters/Randy_Lenz)
     * McDade, Wade
     * Minty, Emil (*not* a streetname?)
     * Neaves, Didi
@@ -114,15 +114,15 @@ title: Characters
     * Thrale, Hester
     * Tingley, ___ (the kid in the closet)
     * van Cleve, Ruth
-    * [van Dyne, Joelle](/characters/Joelle)
+    * [van Dyne, Joelle](/infinite-notes/characters/Joelle)
     * Willis, Yolanda
   * staff
     * Pat Montesian (director)
     * Annie Parrot (asst. director)
-    * [Don Gately](/characters/Don_Gately) (live-in staff)
+    * [Don Gately](/infinite-notes/characters/Don_Gately) (live-in staff)
     * Johnette Foltz (live-in staff)
-    * [Calvin Thrust](/characters/Calvin_Thrust)
-    * [Gene M.](/characters/Gene_M) (Eugenio Martinez)
+    * [Calvin Thrust](/infinite-notes/characters/Calvin_Thrust)
+    * [Gene M.](/infinite-notes/characters/Gene_M) (Eugenio Martinez)
     * Danielle Steenbok
       * "leggy alumna and part-time counselor" (pp. 462)
 * White Flaggers
@@ -130,8 +130,8 @@ title: Characters
   * Bud O.
   * Glenn Kubitz
   * Jack J.
-* [M. Hugh "Helen" Steeply](/characters/Steeply)
-* [Clipperton](/characters/Clipperton)
-* [Marlon Bain](/characters/Marlon_Bain)
-* [Matty Pemulis](/characters/Matty_Pemulis)
+* [M. Hugh "Helen" Steeply](/infinite-notes/characters/Steeply)
+* [Clipperton](/infinite-notes/characters/Clipperton)
+* [Marlon Bain](/infinite-notes/characters/Marlon_Bain)
+* [Matty Pemulis](/infinite-notes/characters/Matty_Pemulis)
 * Molly Notkin

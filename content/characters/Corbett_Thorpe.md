@@ -5,7 +5,7 @@ title: Corbett Thorpe
 Corbett Thorpe
 --------------
 
-Prorector at [ETA](/places/ETA).
+Prorector at [ETA](/infinite-notes/places/ETA).
 
 Stutters.
 

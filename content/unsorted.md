@@ -7,9 +7,9 @@ Unsorted / Miscellaneous
 
 <h3>here</h3>
 
-* [Byzantine erotica](/misc/Byzantine_erotica)
-* [DMZ](/misc/DMZ)
-* [Odalisque](/misc/Odalisque)
+* [Byzantine erotica](/infinite-notes/misc/Byzantine_erotica)
+* [DMZ](/infinite-notes/misc/DMZ)
+* [Odalisque](/infinite-notes/misc/Odalisque)
 
 <h3>elsewhere</h3>
 

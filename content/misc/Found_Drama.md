@@ -7,7 +7,7 @@ Found Drama
 
 **see:** fn. 145
 
-Arguably originated with Lyle (only *implemented* by [Himself](/characters/Himself)).
+Arguably originated with Lyle (only *implemented* by [Himself](/infinite-notes/characters/Himself)).
 
 > ...but which audiences never actually even got to hate, for *a-priori* reasons.
 

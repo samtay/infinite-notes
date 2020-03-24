@@ -7,8 +7,8 @@ Avril Mondragon Incandenza
 
 *a.k.a., The Moms*
 
-Mother to [Orin](/characters/Orin), [Mario](/characters/Mario), and [Hal](/characters/Hal);
-[Himself's](/characters/Himself) widow. "Militant Grammarian". [CT's](/characters/CT)
+Mother to [Orin](/infinite-notes/characters/Orin), [Mario](/infinite-notes/characters/Mario), and [Hal](/infinite-notes/characters/Hal);
+[Himself's](/infinite-notes/characters/Himself) widow. "Militant Grammarian". [CT's](/infinite-notes/characters/CT)
 step-sister (possibly half-sister?).
 
 Women's representative of ETA.
@@ -19,7 +19,7 @@ Suffers from claustrophobia.
 <h3>Avril's many extra-marital affairs</h3>
 
 * the medical attaché (pp. 957, 1049)
-* [CT](/characters/CT) (pp. 451)
+* [CT](/infinite-notes/characters/CT) (pp. 451)
 * John ('N.R.') Wayne (pp. 553, 957)
 * Marlon Bain (pp. 957)
 * graduate students (pp. 957)

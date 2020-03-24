@@ -5,7 +5,7 @@ title: The Entertainment
 The Entertainment
 -----------------
 
-An unfilmable (???) film, created by [Himself](/characters/Himself). Said to be
+An unfilmable (???) film, created by [Himself](/infinite-notes/characters/Himself). Said to be
 *so* entertaining that anyone who watches it will not be able to break away.
 
 <h3>April 1, Year of the Depends Adult Undergarment</h3>
@@ -20,7 +20,7 @@ An unfilmable (???) film, created by [Himself](/characters/Himself). Said to be
   * mostly around it being ultimately entertaining
   * (and then there's Marathe's political screed about passivity)
 * Molly Notkin's description which (presumably) comes from
-  [Joelle](/characters/Joelle) (pp. 788)
+  [Joelle](/infinite-notes/characters/Joelle) (pp. 788)
   * that it otherwise sounds like a self-important (boring) art film with a
     technical trick that only an optics genius could love
   * that it involves Joelle (naked and but veiled or otherwise facially

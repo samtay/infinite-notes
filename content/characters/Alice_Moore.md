@@ -7,4 +7,4 @@ title: Alice Moore
 
 (adminl; origin story pp. 310)
 
-Former helicopter pilot and nowadays receptionist and stenotypist of [CT](/characters/CT).
+Former helicopter pilot and nowadays receptionist and stenotypist of [CT](/infinite-notes/characters/CT).

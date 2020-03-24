@@ -20,7 +20,7 @@ RE: mold (Weston, MA) -- as a child
 
 > "I am not what you see and hear."
 
-[C.T.](/characters/CT) on Hal:
+[C.T.](/infinite-notes/characters/CT) on Hal:
 
 > "He's fine when he's by himself."
 
@@ -32,13 +32,13 @@ RE: mold (Weston, MA) -- as a child
 * Himself is still alive
   * and has this persistent hallucination that Hal does not speak
 * the discussion of *implore* and other words
-* pp. 29 - 1st mention of [Byzantine erotica](/misc/Byzantine-erotica)
+* pp. 29 - 1st mention of [Byzantine erotica](/infinite-notes/misc/Byzantine-erotica)
 
 > That's *Webster's Seventh*. That's not the *O.E.D.*
 
 **LATER THAT SAME YEAR**
 
-* Hal found [Himself's](/characters/Himself) body
+* Hal found [Himself's](/infinite-notes/characters/Himself) body
   * found Himself with his head in the microwave
 
 > something smells delicious
@@ -63,7 +63,7 @@ re: Hal's paper on advertising (esp. w/r/t/ V+V ad spots for NoCoat tongue scrap
 
 * "Hal likes to get high in secret..." - but is more attached to the secrecy
 * pp. 49 - 1st appearance of the one-hitter
-* [Avril](/characters/Avril) never leaves the grounds
+* [Avril](/infinite-notes/characters/Avril) never leaves the grounds
 * Nov. 6th - first appearance of the NASA cup and Hal's spitting.
 
 <hr />
